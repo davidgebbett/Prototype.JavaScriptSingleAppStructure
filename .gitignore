@@ -45,3 +45,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+/ModuleTemplate/node_modules/
+/ModuleTemplate/obj/
+/ModuleTemplate/properties/
